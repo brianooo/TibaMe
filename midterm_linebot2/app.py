@@ -52,8 +52,8 @@ if common_variable:
     channel_secret = os.environ["LINE_CHANNEL_SECRET"]
 else:
     bucket_name = 'seaturtle2-linebot-user-info'
-    channel_access_token = 'o6S1Y3+dTExuGzZDHuWBV8dXj9inFTlKKB3yJWwZ6u0+/hZP/Pz0mixA9tUYl4Qk/adOiTKzDcR4I0Iq9Jn0xKM0FWF35CV60x7h0iKNqQwFPRRPKhoGBW0PUXAdnA9WWNzwnLv2HYgFdv5Jps2oBQdB04t89/1O/w1cDnyilFU='
-    channel_secret = '9accedd3c1ac3921b3b8d59c499c0c18'
+    channel_access_token = 'test-token'
+    channel_secret = 'test-secret'
 
 setmenu = 0
 
