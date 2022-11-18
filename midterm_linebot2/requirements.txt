@@ -1,0 +1,13 @@
+flask
+gunicorn
+line-bot-sdk
+google-cloud-logging
+google-cloud-firestore
+google-cloud-storage
+firebase-admin
+Pillow
+wheel
+grpcio
+flask_cors
+pandas
+tensorflow-cpu == 2.4.1

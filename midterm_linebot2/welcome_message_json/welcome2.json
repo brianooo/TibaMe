@@ -1,0 +1,41 @@
+[
+    {
+    
+        "type": "text",
+        "text": "我是你的好龜密。感謝您加入好友。\n\n全球現存海龜種類有 7 種，台灣附近海域有 5 種海龜出沒的紀錄，包括革龜、綠蠵龜、玳瑁、赤蠵龜及欖蠵龜。若想更了解海龜，請點選『世界龜寶』獲得更多資訊。\n\n先來個小暖身。"
+
+    }
+    ,
+    {
+        "type": "template",
+        "altText": "this is a buttons template",
+        "template": {
+        "type": "buttons",
+        "thumbnailImageUrl": "https://fs.mingpao.com/ins/20200606/s00005/4f9805dbefe805074f28a143eb527570.jpg",
+        "title": "猜猜我是誰",
+        "text": "台灣海域常見海龜之一",
+        "actions": [
+            {
+            "type": "message",
+            "label": "綠蠵龜",
+            "text": "答錯囉，再試試看 !"
+            },
+            {
+            "type": "message",
+            "label": "赤蠵龜",
+            "text": "答錯囉，再試試看 !"
+            },
+            {
+            "type": "message",
+            "label": "欖蠵龜",
+            "text": "答錯囉，再試試看 !"
+            },
+            {
+            "type": "message",
+            "label": "玳瑁",
+            "text": "Bingo !!"
+            }
+        ]
+        }
+    }
+]

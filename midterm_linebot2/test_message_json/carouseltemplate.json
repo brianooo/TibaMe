@@ -1,0 +1,56 @@
+[
+{
+    "type": "template",
+    "altText": "this is a carousel template",
+    "template": {
+      "type": "carousel",
+      "columns": [
+        {
+          "title": "海龜有哪些種類?",
+          "text": "綠蠵龜、赤蠵龜傻傻分不清楚",
+          "actions": [
+            {
+              "type": "message",
+              "label": "查詢",
+              "text": "@海龜種類"
+            }
+          ],
+          "imageBackgroundColor": "#FFFFFF"
+        },
+        {
+          "title": "海龜的困境?",
+          "text": "海龜的生存保衛之戰",
+          "actions": [
+            {
+              "type": "message",
+              "label": "查詢",
+              "text": "@海龜生存及保育"
+            }
+          ]
+        },
+        {
+          "title": "友善海龜指南",
+          "text": "當你遇到海龜時",
+          "actions": [
+            {
+              "type": "message",
+              "label": "查詢",
+              "text": "@友善海龜指南"
+            }
+          ]
+        },
+        {
+          "title": "遇到受傷海龜怎麼辦 ?",
+          "text": "海保救援網",
+          "actions": [
+            {
+              "type": "message",
+              "label": "查詢",
+              "text": "@海保救援"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

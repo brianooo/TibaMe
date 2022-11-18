@@ -1,0 +1,72 @@
+[
+    {
+        "type": "template",
+        "altText": "this is a carousel template",
+        "template": {
+          "type": "carousel",
+          "columns": [
+            {
+              "thumbnailImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5HsB39IEVz6K6R27Sy8msBk2NMRskhvm35ZjqlUMVkN__lfWwiD_bvs9LNuMat38_F1A&usqp=CAU",
+              "title": "海龜有哪些種類?",
+              "text": "綠蠵龜、赤蠵龜傻傻分不清楚",
+              "actions": [
+                {
+                  "type": "uri",
+                  "label": "查詢",
+                  "uri": "https://zh.wikipedia.org/zh-tw/海龟"
+                }
+              ],
+              "imageBackgroundColor": "#FFFFFF"
+            },
+            {
+              "thumbnailImageUrl": "https://resource01-proxy.ulifestyle.com.hk/res/v3/image/content/2760000/2760970/18EJ014__20200924_L.jpg",
+              "title": "海龜的困境?",
+              "text": "海龜的生存保衛之戰",
+              "actions": [
+                {
+                  "type": "uri",
+                  "label": "查詢",
+                  "uri": "https://www.oca.gov.tw/userfiles/A47020000A/files/海龜保育計畫(草案).pdf"
+                }
+              ]
+            },
+            {
+              "thumbnailImageUrl": "https://scare.senao.com.tw/media/7dcb0d1a-1df6-493a-b664-cf8829d52f7e.png",
+              "title": "友善海龜指南",
+              "text": "當你遇到海龜時",
+              "actions": [
+                {
+                  "type": "uri",
+                  "label": "查詢",
+                  "uri": "https://www.oca.gov.tw/userfiles/A47020000A/files/20191223友善賞龜指南.pdf"
+                }
+              ]
+            },
+            {
+              "thumbnailImageUrl": "https://i.ytimg.com/vi/VRiTABRQOjk/maxresdefault.jpg",
+              "title": "遇到受傷海龜怎麼辦 ?",
+              "text": "海保救援網",
+              "actions": [
+                {
+                  "type": "uri",
+                  "label": "查詢",
+                  "uri": "https://www.oca.gov.tw/ch/home.jsp?id=185&parentpath=0,6"
+                }
+              ]
+            },
+            {
+              "thumbnailImageUrl": "https://imgcdn.cna.com.tw/www/WebPhotos/800/20220523/1365x768_20220523000005.jpg",
+              "title": "海洋公民科學家推廣",
+              "text": "為海洋生存環境盡一份心力",
+              "actions": [
+                {
+                  "type": "uri",
+                  "label": "查詢",
+                  "uri": "https://www.oca.gov.tw/filedownload?file=sustainable/202012311108491.pdf&filedisplay=109年度海洋公民科學家推廣培訓計畫-海龜.pdf&flag=trans"
+                }
+              ]
+            }
+          ]
+        }
+      }
+]

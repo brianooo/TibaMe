@@ -1,0 +1,34 @@
+[
+{
+    "type": "template",
+    "altText": "this is a buttons template",
+    "template": {
+      "type": "buttons",
+      "thumbnailImageUrl": "https://fs.mingpao.com/ins/20200606/s00005/4f9805dbefe805074f28a143eb527570.jpg",
+      "title": "猜猜我是誰",
+      "text": "台灣海域常見海龜之一",
+      "actions": [
+        {
+          "type": "message",
+          "label": "綠蠵龜",
+          "text": "答錯囉，再試試看 !"
+        },
+        {
+          "type": "message",
+          "label": "赤蠵龜",
+          "text": "答錯囉，再試試看 !"
+        },
+        {
+          "type": "message",
+          "label": "欖蠵龜",
+          "text": "答錯囉，再試試看 !"
+        },
+        {
+          "type": "message",
+          "label": "玳瑁",
+          "text": "Bingo !!"
+        }
+      ]
+    }
+  }
+]

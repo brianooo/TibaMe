@@ -1,0 +1,65 @@
+[
+{
+    "type": "bubble",
+    "size": "giga",
+    "direction": "ltr",
+    "hero": {
+      "type": "image",
+      "url": "https://fs.mingpao.com/ins/20200606/s00005/4f9805dbefe805074f28a143eb527570.jpg",
+      "size": "full",
+      "aspectRatio": "1.51:1",
+      "aspectMode": "fit"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "猜猜我是誰",
+          "weight": "bold",
+          "align": "center",
+          "contents": []
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "horizontal",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "綠蠵龜",
+            "text": "答錯囉，再試試看"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "赤蠵龜",
+            "text": "答錯囉，再試試看"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "欖蠵龜",
+            "text": "答錯囉，再試試看"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "玳瑁",
+            "text": "BINGO 答對囉 !!!!!"
+          }
+        }
+      ]
+    }
+  }
+]
